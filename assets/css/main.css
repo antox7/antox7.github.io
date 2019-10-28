@@ -260,6 +260,12 @@ input, select, textarea {
 
 /* Row */
 
+	/* .row > div {
+		display: flex;
+		flex-direction: row;
+		margin-left: 50px;
+	} */
+
 	.row {
 		display: flex;
 		flex-wrap: wrap;
