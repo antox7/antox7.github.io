@@ -3297,3 +3297,8 @@ input, select, textarea {
 			}
 
 	}
+
+	#emoji {
+		position: relative;
+		left: -180px;
+	}
